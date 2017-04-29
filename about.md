@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+comments: true
 ---
 
 <p class="message">
@@ -25,3 +26,4 @@ I spent some of my freetime to make the world a better place by taking place at 
 
 
 Thanks for reading!
+
