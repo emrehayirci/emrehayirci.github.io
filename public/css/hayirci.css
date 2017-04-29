@@ -35,3 +35,6 @@ a.btn-outline {
 .roboto-normal {
     font-family: 'Roboto', sans-serif;
 }
+#sidebar-buttons {
+  color: #000000;
+}
