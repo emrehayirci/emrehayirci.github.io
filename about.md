@@ -1,30 +1,27 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hey there! You can contact me on <a href='mailto:emrehayirci@gmail.com'>my email adress</a> To know me more carry on reading!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+  I am a junior year student at Dokuz Eylul University Department of Computer Engineering. I am interested in Game, Web & Mobile development and also Machine Learning field. I am improving myself in Django & React , React Native.  I am currently working at <a href='https://en.kocsistem.com.tr/'>Koçsistem</a> as part-time software developer.
+  
+  Me and my friends are building the startup called <a href:'www.peerket.com'/><b> Peerket </b></a>. I believe that every person must chase their dreams and try to create a *value* in the world.
+ 
+ 
+### Voluntary Works
 
-There are currently two themes built on Poole:
+I spent some of my freetime to make the world a better place by taking place at NGOs:
+ 
+ * Organiser at Google Developer Groups 2016.09 - Present
+ * Organiser at Computer Society 2016.09 - Present
+ * Microsoft Student Partner 2015.09 - 2016.12
+ * Ninja at CoderDojo İzmir 2015.09-2016.06
+ * Project Development Coordinator at DEU ACM 2014.09-2016.05
+ 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
