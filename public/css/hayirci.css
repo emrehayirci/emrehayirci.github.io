@@ -57,6 +57,10 @@ a.btn-outline:hover {
     color: #fff;
 }
 
-#sidebar-buttons {
-  color: black;
+#sidebar-buttons a {
+    color: #000000;
+}
+
+#sidebar-buttons a:hover {
+    color: #fff;
 }
