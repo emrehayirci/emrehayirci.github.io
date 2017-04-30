@@ -23,7 +23,7 @@
     margin-top: 3vh;
     border: solid 2px #fff;
     font-size: 1em;
-    /*transition: all .3s ease-in-out;*/
+    transition: all .3s ease-in-out;
     background: #fff;
 }
 a.btn-outline {
@@ -57,6 +57,6 @@ a.btn-outline:hover {
     color: #fff;
 }
 
-.sidebar-buttons {
-  color: #000000;
+#sidebar-buttons {
+  color: black;
 }
