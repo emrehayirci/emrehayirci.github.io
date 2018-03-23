@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-411758d331e07ed6c6df.js",
+      "component---src-pages-index-js-411758d331e07ed6c6df.js.map"
+    ],
+    "path---ml-boilerplate": [
+      "path---ml-boilerplate-657e1f785f9e25733bf2.js",
+      "path---ml-boilerplate-657e1f785f9e25733bf2.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---notiboard": [
+      "path---notiboard-6617e1247612e458a76c.js",
+      "path---notiboard-6617e1247612e458a76c.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-596c9959cfa58b90a4e9.js",
+      "component---src-templates-blog-post-js-596c9959cfa58b90a4e9.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-536f58722cea3d8792d8.js",
+      "component---src-layouts-index-js-536f58722cea3d8792d8.js.map"
+    ],
+    "path---index": [
+      "path---index-e5dd32e6459667af3680.js",
+      "path---index-e5dd32e6459667af3680.js.map"
+    ],
+    "commons": [
+      "commons-581f82a2f76d1a2b9848.js",
+      "commons-581f82a2f76d1a2b9848.js.map"
+    ],
+    "path---balancy": [
+      "path---balancy-53a6865a2632f7087ca3.js",
+      "path---balancy-53a6865a2632f7087ca3.js.map"
+    ],
+    "path---portfolio": [
+      "path---portfolio-229201a10b352b0b4f5a.js",
+      "path---portfolio-229201a10b352b0b4f5a.js.map"
+    ],
+    "path---game-of-destruction": [
+      "path---game-of-destruction-49d7558137eb744bb03c.js",
+      "path---game-of-destruction-49d7558137eb744bb03c.js.map"
+    ],
+    "app": [
+      "app-aa612e38bf4bef681802.js",
+      "app-aa612e38bf4bef681802.js.map"
+    ],
+    "component---src-pages-portfolio-js": [
+      "component---src-pages-portfolio-js-0ed40e8ed5acd716a5de.js",
+      "component---src-pages-portfolio-js-0ed40e8ed5acd716a5de.js.map"
+    ],
+    "path---path-of-wisdom": [
+      "path---path-of-wisdom-65358213f656f9f69bda.js",
+      "path---path-of-wisdom-65358213f656f9f69bda.js.map"
+    ],
+    "path---deps": [
+      "path---deps-3e21700a42545a087a92.js",
+      "path---deps-3e21700a42545a087a92.js.map"
+    ],
+    "path---better-way-1": [
+      "path---better-way-1-c216391a9a64d1db2be3.js",
+      "path---better-way-1-c216391a9a64d1db2be3.js.map"
+    ],
+    "path---skiplist": [
+      "path---skiplist-eb1205aeb2a1f2571713.js",
+      "path---skiplist-eb1205aeb2a1f2571713.js.map"
+    ]
+  }
+}

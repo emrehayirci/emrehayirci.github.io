@@ -1,0 +1,2 @@
+webpackJsonp([0xf7d6ff110a79],{382:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Emre Hayirci",author:"Emre Hayirci"}},markdownRemark:{id:"C:/Users/emre_/Desktop/emrehayirci/src/works/Deps/index.md absPath of file >>> MarkdownRemark",html:'<p>Details will be updated!</p>\n<h3>Currently Under Development</h3>\n<p><a href="https://github.com/emrehayirci/deps">Github Repository</a></p>',frontmatter:{title:"Deps",date:"July 22, 2017",tags:"general"}}},pathContext:{path:"/deps/"}}}});
+//# sourceMappingURL=path---deps-3e21700a42545a087a92.js.map
